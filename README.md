@@ -20,8 +20,8 @@
 🎓 Third-year Computer Engineering student <br>
 🛡️ Cybersecurity Enthusiast | 💻 Web Dev Learner
 </h3>
-
-<h3 align="left">Languages and Tools:</h3>
+<br>
+<h3 align="center">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a>
@@ -59,10 +59,10 @@
   <img src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" alt="css3" width="40" height="40"/>
   <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" alt="java" width="40" height="40"/>
 </p>
+<br>
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://www.linkedin.com/in/riddhi-kulkarni-9a6b84232" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="riddhi kulkarni" height="30" width="40" /></a>
 <a href="https://medium.com/@ridikulus2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@ridikulus2003" height="30" width="40" /></a>
 </p>
