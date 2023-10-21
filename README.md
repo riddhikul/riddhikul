@@ -67,7 +67,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/riddhi-kulkarni-9a6b84232" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="riddhi kulkarni" height="30" width="40" /></a>
-<a href="https://medium.com/@ridikulus2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@riddhikul" height="30" width="40" /></a>
+<a href="https://medium.com/@riddhikul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@riddhikul" height="30" width="40" /></a>
 </p>
 
 
